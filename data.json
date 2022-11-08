@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Story Based Shoot",
+        "price": 500,
+        "description": "3/4 hours shoot, Unlimited Clicks, 100 Edited Pictures,  30Printed, 1full Video (30-40min), 2promo Videos.",
+        "img": "https://i.ibb.co/4KvcdYK/story.jpg"
+    },
+    {
+        "name": "Wedding Shoot",
+        "price": 500,
+        "description": "3/4 hours shoot, Unlimited Clicks, 100 Edited Pictures,  30Printed, 1full Video (30-40min), 2promo Videos.",
+        "img": "https://i.ibb.co/mHVYCGD/wedding.jpg"
+    },
+    {
+        "name": "Haldi Shoot",
+        "price": 500,
+        "description": "3/4 hours shoot, Unlimited Clicks, 100 Edited Pictures,  30Printed, 1full Video (30-40min), 2promo Videos.",
+        "img": "https://i.ibb.co/Fszw3Yq/haldi.jpg"
+    },
+    {
+        "name": "Birthday Occasion Shoot",
+        "price": 500,
+        "description": "3/4 hours shoot, Unlimited Clicks, 100 Edited Pictures,  30Printed, 1full Video (30-40min), 2promo Videos.",
+        "img": "https://i.ibb.co/k0w90kb/birthday.jpg"
+    },
+    {
+        "name": "Indoor Shoot",
+        "price": 500,
+        "description": "3/4 hours shoot, Unlimited Clicks, 100 Edited Pictures,  30Printed, 1full Video (30-40min), 2promo Videos.",
+        "img": "https://i.ibb.co/r06wY78/indoor.jpg"
+    },
+    {
+        "name": "Product Shoot",
+        "price": 500,
+        "description": "3/4 hours shoot, Unlimited Clicks, 100 Edited Pictures,  30Printed, 1full Video (30-40min), 2promo Videos.",
+        "img": "https://i.ibb.co/wQr76TD/product.jpg"
+    }
+]
